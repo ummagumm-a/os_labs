@@ -1,0 +1,500 @@
+   47  Ð½Ñyay zoom
+   48  yay
+   49  yay zoom
+   50  mc
+   51  mc
+   52  yay m
+   53  yay mc
+   54  yay libreoffice
+   55  vim ~/.vimrc
+   56  exit
+   57  cd 
+   58  cd Desktop/
+   59  python3 "Text File (1).txt"
+   60  python3
+   61  cd
+   62  yay spectacle
+   63  spectacle
+   64  cd Desktop/
+   65  g++ -o pp "Text File (1).txt"
+   66  mv "Text File (1).txt" prog.cpp
+   67  cd
+   68  cd Desktop/
+   69  ls
+   70  vim prog.cpp 
+   71  g++ prog.cpp
+   72  ./prog
+   73  ls
+   74  ./a.out
+   75  vim prog.cpp 
+   76  g++ prog.cpp
+   77  ./a.out
+   78  ./a.out
+   79  g++ prog.cpp
+   80  vim prog.cpp 
+   81  g++ prog.cpp
+   82  vim prog.cpp 
+   83  vim prog.cpp 
+   84  g++ prog.cpp
+   85  vim prog.cpp 
+   86  g++ prog.cpp
+   87  vim prog.cpp 
+   88  g++ prog.cpp
+   89  vim prog.cpp 
+   90  g++ prog.cpp
+   91  vim prog.cpp 
+   92  g++ prog.cpp
+   93  ./a.out
+   94  g++ prog.cpp
+   95  vim prog.cpp 
+   96  g++ prog.cpp
+   97  ./a.out
+   98  vim prog.cpp 
+   99  g++ prog.cpp
+  100  ./a.out
+  101  vim prog.cpp 
+  102  g++ prog.cpp
+  103  vim prog.cpp 
+  104  g++ prog.cpp
+  105  vim prog.cpp 
+  106  g++ prog.cpp
+  107  ./a.out
+  108  vim prog.cpp 
+  109  g++ prog.cpp
+  110  vim prog.cpp 
+  111  g++ prog.cpp
+  112  ./a.out
+  113  vim prog.cpp 
+  114  g++ prog.cpp
+  115  ./a.out
+  116  vim prog.cpp 
+  117  g++ prog.cpp
+  118  vim prog.cpp 
+  119  g++ prog.cpp
+  120  vim prog.cpp 
+  121  g++ prog.cpp
+  122  vim prog.cpp 
+  123  g++ prog.cpp
+  124  ./a.out
+  125  vim prog.cpp 
+  126  exit
+  127  screen 
+  128  cd Desktop/
+  129  vim prog.cpp
+  130  vim prog.cpp
+  131  vim prog.cpp
+  132  cd Desktop/
+  133  g++ prog.cpp
+  134  g++ prog.cpp
+  135  g++ prog.cpp
+  136  g++ prog.cpp
+  137  g++ prog.cpp
+  138  g++ prog.cpp
+  139  g++ prog.cpp
+  140  ./a.out
+  141  g++ prog.cp
+  142  g++ prog.cpp
+  143  ./a.out
+  144  g++ prog.cpp
+  145  ./a.out
+  146  g++ prog.cpp
+  147  ./a.out
+  148  g++ prog.cpp
+  149  g++ prog.cpp
+  150  ./a.out
+  151  g++ prog.cpp
+  152  ./a.out
+  153  g++ prog.cpp
+  154  g++ prog.cpp
+  155  ./a.out
+  156  g++ prog.cpp
+  157  g++ prog.cpp
+  158  ./a.out
+  159  g++ prog.cpp
+  160  ./a.out
+  161  g++ prog.cpp
+  162  ./a.out
+  163  g++ prog.cpp
+  164  ./a.out
+  165  g++ prog.cpp
+  166  ./a.out
+  167  ./a.out
+  168  ./a.out
+  169  ./a.out
+  170  ./a.out
+  171  ./a.out
+  172  ./a.out
+  173  ./a.out
+  174  ./a.out
+  175  ./a.out
+  176  ./a.out
+  177  ./a.out
+  178  ./a.out
+  179  ./a.out
+  180  ./a.out
+  181  ./a.out
+  182  ./a.out
+  183  p
+  184  p
+  185  ./a.out
+  186  ./a.out
+  187  ./a.out
+  188  ./a.out
+  189  ./a.out
+  190  ./a.out
+  191  ./a.out
+  192  ./a.out
+  193  ./a.out
+  194  g++ prog.cpp
+  195  g++ prog.cpp
+  196  g++ prog.cpp
+  197  g++ prog.cpp
+  198  ./a.out
+  199  ./a.out
+  200  g++ prog.cpp
+  201  g++ prog.cpp
+  202  ./a.out
+  203  g++ prog.cpp
+  204  ./a.out
+  205  g++ prog.cpp
+  206  g++ prog.cpp
+  207  ./a.out
+  208  g++ prog.cpp
+  209  ./a.out
+  210  ./a.out
+  211  ./a.out
+  212  ./a.out
+  213  ./a.out
+  214  ./a.out
+  215  ./a.out
+  216  ./a.out
+  217  ./a.out
+  218  g++ prog.cpp
+  219  ./a.out
+  220  ./a.out
+  221  ./a.out
+  222  ./a.out
+  223  ./a.out
+  224  ./a.out
+  225  ./a.out
+  226  ./a.out
+  227  g++ prog.cpp
+  228  ./a.out
+  229  g++ prog.cpp
+  230  ./a.out
+  231  ./a.out
+  232  g++ prog.cpp
+  233  ./a.out
+  234  g++ prog.cpp
+  235  g++ prog.cpp
+  236  ./a.out
+  237  g++ prog.cpp
+  238  g++ prog.cpp
+  239  ./a.out
+  240  g++ prog.cpp
+  241  ./a.out
+  242  g++ prog.cpp -O3
+  243  ./a.out
+  244  g++ prog.cpp -O2
+  245  ./a.out
+  246  g++ prog.cpp -O1
+  247  ./a.out
+  248  g++ prog.cpp -O0
+  249  ./a.out
+  250  g++ prog.cpp -O0
+  251  ./a.out
+  252  g++ prog.cpp 
+  253  ./a.out
+  254  g++ std=c++98 progprog.cpp 
+  255  g++ std=c++98 prog.cpp 
+  256  ./a.out
+  257  ls
+  258  g++ --std=c++98 prog.cpp 
+  259  g++  prog.cpp 
+  260  g++  prog.cpp 
+  261  g++  prog.cpp 
+  262  ./a.out
+  263  g++  prog.cpp 
+  264  ./a.out
+  265  g++  prog.cpp 
+  266  ./a.out
+  267  g++  prog.cpp 
+  268  g++  prog.cpp 
+  269  ./a.out
+  270  g++  prog.cpp 
+  271  ./a.out
+  272  g++  prog.cpp 
+  273  ./a.out
+  274  g++  prog.cpp 
+  275  ./a.out
+  276  g++  prog.cpp 
+  277  ./a.out
+  278  g++  prog.cpp 
+  279  ./a.out
+  280  g++  prog.cpp 
+  281  ./a.out
+  282  g++  prog.cpp 
+  283  ./a.out
+  284  exit
+  285  ghcup tui
+  286  ls /tmp
+  287  ghcup tui
+  288  cd Projects/smth/
+  289  stack new ehrenfest
+  290  cd ehre
+  291  cd ehrenfest/
+  292  vim src/Lib.hs
+  293  exit
+  294  vim prog.cpp
+  295  cd ../Projects/smth/
+  296  ls
+  297  vim Main.hs
+  298  cd
+  299  ls -a
+  300  rm -rf .ghc .stack
+  301  ls /usr
+  302  ls /usr/bin
+  303  ls /usr/bin | less
+  304  ls /usr/bin | grep stack
+  305  ls /usr/bin | grep ghc
+  306  yay install ghc
+  307  yay ghc
+  308  yay ghcup-hs-bin
+  309  vim .bashrc
+  310  ghcup tui
+  311  ls
+  312  ls -a
+  313  vim ~/.screenrc
+  314  source ~/.screenrc
+  315  g++ -Ofast prog.cpp
+  316  ./a.out
+  317  g++ -Ofast prog.cpp
+  318  ./a.out
+  319  g++ -Ofast prog.cpp
+  320  ./a.out
+  321  g++ -O0 prog.cpp
+  322  ./a.out
+  323  cd
+  324  cd Desktop/
+  325  ls
+  326  rm a.out prog.cpp 
+  327  cd
+  328  ls
+  329  cd Projects/
+  330  ls
+  331  ls
+  332  la
+  333  ll
+  334  ls -a
+  335  mkdir smth
+  336  cd smth
+  337  yay ghc
+  338  ls
+  339  touch Ehrenfest.hs
+  340  vim Ehrenfest.hs 
+  341  ghc Ehrenfest.hs 
+  342  vim Ehrenfest.hs 
+  343  mv Ehrenfest.hs Main.hs
+  344  vim Ehrenfest.hs 
+  345  vim Main.hs
+  346  ghc Ehrenfest.hs 
+  347  ghc Main.hs 
+  348  vim Main.hs
+  349  ghc Main.hs 
+  350  ghci Main.hs 
+  351  vim ~/.screenrc 
+  352  vim ~/.screenrc 
+  353  vim ~/.screenrc 
+  354  vim ~/.screenrc 
+  355  vim ~/.screenrc 
+  356  vim ~/.screenrc 
+  357  vim ~/.screenrc 
+  358  vim ~/.screenrc 
+  359  vim ~/.screenrc 
+  360  vim ~/.screenrc 
+  361  vim ~/.screenrc 
+  362  vim ~/.screenrc 
+  363  vim ~/.vimrc
+  364  vim ~/.vimrc
+  365  exit
+  366  vim ~/.vimrc
+  367  vim ~/.vimrc
+  368  vim ~/.vimrc
+  369  exit
+  370  c
+  371  ce
+  372  cd
+  373  cd Projects/smth/
+  374  ls
+  375  rm Main.hs 
+  376  cd ehrenfest/
+  377  vim src/Lib.hs
+  378  vim src/Lib.hs
+  379  vim src/Lib.hs
+  380  exit
+  381  exit
+  382  cd Desktop/
+  383  screen
+  384  vim ~/.screenrc 
+  385  screen
+  386  screen
+  387  screen
+  388  screen
+  389  screen
+  390  screen
+  391  screen
+  392  screen
+  393  screen
+  394  exit
+  395  vim ~/.vimrc
+  396  vim ~/.vimrc
+  397  vim ~/.vimrc
+  398  exit
+  399  vim ~/.vimrc
+  400  cd .vim
+  401  ls
+  402  mkdir bundle
+  403  cd bundle
+  404  git clone https://github.com/neovimhaskell/haskell-vim.git
+  405  ls
+  406  ls haskell-vim/
+  407  cd ..
+  408  ls
+  409  ls plugged/
+  410  ls plugged/gruvbox/
+  411  cd plugged/
+  412  git clone https://github.com/neovimhaskell/haskell-vim.git
+  413  vim ~/.vimrc
+  414  cd
+  415  cd Projects/smth/ehrenfest/
+  416  vim src/Lib.hs
+  417  vim src/Lib.hs
+  418  vim src/Lib.hs
+  419  vim src/Lib.hs
+  420  vim src/Lib.hs
+  421  vim src/Lib.hs
+  422  stack build
+  423  cabal update
+  424  stack build
+  425  stack build
+  426  vim stack.yaml
+  427  stack build
+  428  vim app/Main.hs
+  429  stack build
+  430  vim src/Lib.hs
+  431  vim src/Lib.hs
+  432  vim src/Lib.hs
+  433  stack build
+  434  vim src/Lib.hs
+  435  vim src/Lib.hs
+  436  vim src/Lib.hs
+  437  cd ..
+  438  touch ehrenfest.cpp
+  439  vim ehrenfest.cpp 
+  440  screen
+  441  ls
+  442  vim ehrenfest.cpp 
+  443  git config --global user.name "ummagumm-a"
+  444  git config --global user.password "wup-CN9-YHj-kCq"
+  445  rmdir ehrenfest
+  446  rm -rf ehrenfest
+  447  mkdir ehrenfest
+  448  mv ehrenfest.cpp ehrenfest/
+  449  ls
+  450  ls ehrenfest/
+  451  rm a.out 
+  452  cd ehrenfest/
+  453  git init
+  454  git status
+  455  git add -A
+  456  git status
+  457  git commit "just works"
+  458  git commit -m "just works"
+  459  git config --global user.email "siniy.vyacheslav@gmail.com"
+  460  git config --global user.name "ummagumm-a"
+  461  git commit -m "just works"
+  462  git push -u origin master
+  463  git push -u git@github.com:ummagumm-a/ehrenfest.git master
+  464  git push -u git@github.com:ummagumm-a/ehrenfest.git master
+  465  git remote set-url origin git@github.com:ummagumm-a/ehrenfest.git
+  466  git push git@github.com:ummagumm-a/ehrenfest.git master
+  467  git config --list
+  468  ls ~
+  469  ls -a ~
+  470  vim ~/.gitconfig
+  471  git config --list
+  472  git remote add origin git@github.com:ummagumm-a/ehrenfest.git
+  473  git push origin master
+  474  sudo git push origin master
+  475  git remote set-url origin https://github.com/ummagumm-a/ehrenfest.git
+  476  git branch -M main
+  477  git push -u origin main
+  478  git push -u origin main
+  479  cd Projects/smth/
+  480  ls
+  481  git clone https://github.com/cies/haskell-fractal
+  482  git clone https://github.com/cies/haskell-fractal.git
+  483  ls
+  484  cd haskell-fractal/
+  485  cabal sandbox init
+  486  ls
+  487  oculus poster.pdf
+  488  okular poster.pdf
+  489  gcup cabal
+  490  cabal --help
+  491  ./.cabal-sandbox/bin/haskell-fractal
+  492  cabal sandbox init
+  493  cabal sandbox
+  494  cabal --version
+  495  cabal install
+  496  cd
+  497  vim prog.cpp
+  498  exit
+  499  Ð·pwd
+  500  pwd
+  501  man ls
+  502  whoami
+  503  su
+  504  su
+  505  Ð¼Ñvim f1.txt
+  506  Ð¼Ñvim f1.txt
+  507  vim f1.txt
+  508  ls
+  509  vim
+  510  ls
+  511  ÑÐ´ls /
+  512  ls /
+  513  cat swapfile
+  514  cat /swapfile
+  515  ls
+  516  cat prog.cpp 
+  517  grep if prog.cpp 
+  518  grep *if prog.cpp 
+  519  grep -e *if prog.cpp 
+  520  grep -e if* prog.cpp 
+  521  Ð´Ñ‹
+  522  ls
+  523  sort prog.cpp > tmp.txt
+  524  cat tmp.txt 
+  525  ls > tmp1.txt
+  526  cat tmp1.txt 
+  527  Ðls | sort | cat
+  528  Ðls | sort | cat
+  529  ÐLs | sort | cat
+  530  Ðls | sort | cat
+  531  ls | sort | cat
+  532  ls | sort -R | cat
+  533  ls | sort -r | cat
+  534  ls | sort -r | cat | tail -n 3
+  535  ls | sort -r | cat | tail -n 3 | tar
+  536  tar --help
+  537  tar --help | less
+  538  ps --help
+  539  man ps
+  540  ps
+  541  man grep
+  542  cd week1/
+  543  ls /usr/bin | grep gcc | sort -r > ex1.txt
+  544  cat ex1.txt 
+  545  history
+  546  history > ex2.txt
