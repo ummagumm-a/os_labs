@@ -1,0 +1,8 @@
+Physical address is an address in RAM, i.e. the real address in hardware where some word(or bit, or bite)
+is stored.
+Virtual address is an address that OS tells a program its data is stored in. In such a way
+a program can use bigger address space than hardware can provide.
+If computer has virtual memory, almost always virtual address will not be the same as physical address.
+
+To access data stored in a physical address, we can just send this address to the bus.
+To access data stored in a virtual address, we firstly need to map it to physical address.

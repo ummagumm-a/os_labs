@@ -1,0 +1,5 @@
+this machine can reference 2^16 addresses.
+Suppose that machine has a distinct address for each word.
+Then, one page consist of 8*2^10(8KB)/4(Bites for a word) addresses.
+It is equal to 2^11.
+Then, there can be 2^16/2^11 = 2^5 pages.
