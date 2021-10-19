@@ -1,0 +1,11 @@
+I sorted references to memory in dataset using program sort.py.
+
+before sorting: hit/miss = 1.07
+after sorting: hit/miss = 2.87
+Thus, I enforced locality principle by making references in neighboring instructions
+So, after that the hit/miss ratio have increased, i.e. there are more hits than misses.
+By shuffling memory refernces we, in general, will obtain lower hit/miss ratio
+
+Another way to increase hit/miss ratio is to load as many pages as possible when program
+starts to run (switched to). 
+These >=n first memory references will result in hit.
