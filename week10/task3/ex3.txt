@@ -1,0 +1,4 @@
+-rw-r--r-- 1 ummagumma users 7 Oct 26 19:48 _ex3.txt
+-rwx---rwx 1 ummagumma users 7 Oct 26 19:48 _ex3.txt
+-rwx---rwx 1 ummagumma users 7 Oct 26 19:48 _ex3.txt
+-rwxrwxrwx 1 ummagumma users 7 Oct 26 19:48 _ex3.txt
